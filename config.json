@@ -1,0 +1,5 @@
+{
+  "pcNumber": "PC-01",
+  "serverUrl": "http://localhost:5000",
+  "debug": true
+}
